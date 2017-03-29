@@ -1,0 +1,7 @@
+итого 84
+-rw-rw-r--   1 steemit steemit     0 мар 11 20:33 forLs.txt
+drwxrwxr-x 315 steemit steemit 45056 фев 15 13:26 node_modules
+-rw-rw-r--   1 steemit steemit   643 фев 15 13:26 package.json
+drwxrwxr-x   2 steemit steemit  4096 фев 15 16:42 public
+drwxrwxr-x   3 steemit steemit  4096 фев 16 13:55 src
+-rw-rw-r--   1 steemit steemit   435 янв 26 17:33 webpack.config.js
